@@ -21,6 +21,8 @@ Plugin 'godlygeek/tabular'
 Plugin 'plasticboy/vim-markdown'
 Plugin 'file:///home/asnklm/github/vim-flavored-markdown'
 Plugin 'vim-scripts/showhide.vim'
+Plugin 'mattn/webapi-vim'
+Plugin 'vim-scripts/Gist.vim'
 
 " Trial plugins here
 Plugin 'tpope/vim-repeat'
