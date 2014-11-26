@@ -19,10 +19,13 @@ let g:flake8_ignore="E501,E111"
 " Syntax highlighting for Markdown
 Plugin 'godlygeek/tabular'
 Plugin 'plasticboy/vim-markdown'
-Plugin 'file:///home/asnklm/github/vim-flavored-markdown'
+Plugin 'kmanalo/vim-flavored-markdown'
 Plugin 'vim-scripts/showhide.vim'
 Plugin 'mattn/webapi-vim'
 Plugin 'vim-scripts/Gist.vim'
+Plugin 'kchmck/vim-coffee-script'
+Plugin 'bling/vim-airline'
+set laststatus=2
 
 " Trial plugins here
 Plugin 'tpope/vim-repeat'
